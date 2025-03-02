@@ -767,7 +767,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   color: #F14E95;
   padding-left: 10px;
   padding-right: 10px;
@@ -1180,7 +1180,7 @@ form label {
   font-size: 60px;
   margin-bottom: 10px;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: normal;
   color: #F14E95;
   font-family: "Sacramento", Arial, serif;
 }
